@@ -11,11 +11,11 @@ Website for marketing group HoriSEOn.
 
 ScreenShots: 
 
-assets\homework snip1.PNG
+https://github.com/WRManns/Homework-03-01-21/blob/master/assets/homework%20snip1.PNG
 
-assets\homework snip2.PNG
+https://github.com/WRManns/Homework-03-01-21/blob/master/assets/homework%20snip2.PNG
 
-assets\homework snip3.PNG
+https://github.com/WRManns/Homework-03-01-21/blob/master/assets/homework%20snip3.PNG
 
 Link to website:
 https://github.com/WRManns/Homework-03-01-21.git
