@@ -2,11 +2,15 @@
 Website for marketing group HoriSEOn.
 
 *Corrected Links*
+
 *Consolidated CSS*
+
 *Adjusted HTML to be semantic*
+
 *Added alt text for images*
 
 ScreenShots: 
+
 assets\homework snip1.PNG
 
 assets\homework snip2.PNG
