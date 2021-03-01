@@ -1,10 +1,10 @@
 # Homework-03-01-21
 Website for marketing group HoriSEOn.
 
-Corrected Links
-Consolidated CSS
-Adjusted HTML to be semantic
-Added alt text for images
+*Corrected Links*
+*Consolidated CSS*
+*Adjusted HTML to be semantic*
+*Added alt text for images*
 
 ScreenShots: 
 
